@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CECS 543 - Project: Version Control System
 
 ## Team PSA
@@ -89,7 +89,4 @@ This is the second iteration of the version control system build by Team PSA. Th
 
 ## Known Issues
 None
-=======
-# vcs
-Version Control System
->>>>>>> 403aec52610ceb0307278f6981c9cb0a9689bc1f
+
