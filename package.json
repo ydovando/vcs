@@ -1,0 +1,27 @@
+{
+  "name": "cecs543_project-1",
+  "version": "1.1.0",
+  "description": "The second iteration of a version control for CECS 543.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony1234567/CECS543_Project-1.git"
+  },
+  "author": "Sotheanith Sok, Anthony Martinez, Chandandeep Thind, Prateechi Singh, Yashua Ovando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony1234567/CECS543_Project-1/issues"
+  },
+  "homepage": "https://github.com/Anthony1234567/CECS543_Project-1#readme",
+  "dependencies": {
+    "check-types": "^8.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
