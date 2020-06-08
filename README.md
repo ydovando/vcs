@@ -90,3 +90,5 @@ This is the second iteration of the version control system build by Team PSA. Th
 ## Known Issues
 None
 
+## Original Project Setup 
+https://github.com/sotheanith/CECS-543-VCS
